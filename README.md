@@ -1,5 +1,14 @@
-## Hi there 👋
 
+### Bonjour, je suis Anas 👋
+projet 1 
+Je construis des solutions d'analyse de données publicitaires avec Next.js, NestJS et l'API Facebook.
+#### Mes compétences :
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 <!--
 **Anashfn/Anashfn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
